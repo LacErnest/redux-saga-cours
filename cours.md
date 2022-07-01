@@ -23,6 +23,8 @@
  # Maintenant il faudrait appliquer notre middleware saga à notre application comme on l'a fait pour thunk
  # C'est tout ce qu'il y'a à faire pour configurer redux-saga
 
+ # Avant de commencer on va ajouter l'extension redux-devtools-extension au projet pour faciliter le developpement
+
  # En guise d'exercice, ajoutez le service de météo et créez le composant qui affichera la météo
 
  # Je vous envoi le projet 
